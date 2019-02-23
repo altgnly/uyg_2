@@ -1,0 +1,6 @@
+PortB’ye baðlý ledler ile 0-FF arasý sayan sayýcý tasarlayýnýz. 
+Timer1 kesmesi kullanýlarak baþlangýçta ledlerin artýþ süresi 1sn olacak þekilde programlanacaktýr. 
+
+RA0’a baðlý butona her basýldýðýnda bu süre 100msn artacak, RA1’e baðlý butona her basýldýðýnda ise bu süre 100msn azalacak þekilde ayarlanacaktýr.
+
+Not: Ledlerin artýþ süresi 500msn ile 1.5sn sýnýrlarý içerisinde kalacak ve bu süre 500msn olduðunda azaltma butonuna, 1.5sn olduðunda da arttýrma butonuna basýldýðýnda sabit kalacak deðiþtirilmeyecektir.

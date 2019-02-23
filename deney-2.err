@@ -1,0 +1,9 @@
+Warning[207] D:\MIKROISLEMCILER\2018GUZDONEMI\2.DENEY\DENEY-2.ASM 5 : Found label after column 1. (SAYICI)
+Warning[207] D:\MIKROISLEMCILER\2018GUZDONEMI\2.DENEY\DENEY-2.ASM 6 : Found label after column 1. (SAYICI_YEDEK)
+Warning[207] D:\MIKROISLEMCILER\2018GUZDONEMI\2.DENEY\DENEY-2.ASM 7 : Found label after column 1. (TMR1H_YEDEK)
+Warning[207] D:\MIKROISLEMCILER\2018GUZDONEMI\2.DENEY\DENEY-2.ASM 8 : Found label after column 1. (TMR1L_YEDEK)
+Message[302] D:\MIKROISLEMCILER\2018GUZDONEMI\2.DENEY\DENEY-2.ASM 37 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] D:\MIKROISLEMCILER\2018GUZDONEMI\2.DENEY\DENEY-2.ASM 39 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] D:\MIKROISLEMCILER\2018GUZDONEMI\2.DENEY\DENEY-2.ASM 40 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] D:\MIKROISLEMCILER\2018GUZDONEMI\2.DENEY\DENEY-2.ASM 52 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Warning[205] D:\MIKROISLEMCILER\2018GUZDONEMI\2.DENEY\DENEY-2.ASM 133 : Found directive in column 1. (END)
